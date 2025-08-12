@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "price": 1199,
+    "storage": "256GB",
+    "ram": "8GB",
+    "display": "6.1-inch Super Retina XDR",
+    "camera": "48MP + 12MP + 12MP",
+    "battery": "3274mAh",
+    "os": "iOS 17",
+    "image": "https://example.com/images/iphone15pro.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "price": 1299,
+    "storage": "512GB",
+    "ram": "12GB",
+    "display": "6.8-inch Dynamic AMOLED 2X",
+    "camera": "200MP + 12MP + 10MP + 10MP",
+    "battery": "5000mAh",
+    "os": "Android 14",
+    "image": "https://example.com/images/galaxys24ultra.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Google",
+    "model": "Pixel 8 Pro",
+    "price": 999,
+    "storage": "128GB",
+    "ram": "12GB",
+    "display": "6.7-inch LTPO OLED",
+    "camera": "50MP + 48MP + 48MP",
+    "battery": "5050mAh",
+    "os": "Android 14",
+    "image": "https://example.com/images/pixel8pro.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "OnePlus",
+    "model": "OnePlus 12",
+    "price": 799,
+    "storage": "256GB",
+    "ram": "16GB",
+    "display": "6.82-inch AMOLED 120Hz",
+    "camera": "50MP + 48MP + 64MP",
+    "battery": "5400mAh",
+    "os": "Android 14",
+    "image": "https://example.com/images/oneplus12.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14 Pro",
+    "price": 899,
+    "storage": "512GB",
+    "ram": "16GB",
+    "display": "6.73-inch AMOLED 120Hz",
+    "camera": "50MP + 50MP + 50MP",
+    "battery": "4880mAh",
+    "os": "Android 14",
+    "image": "https://example.com/images/xiaomi14pro.jpg"
+  }
+]
