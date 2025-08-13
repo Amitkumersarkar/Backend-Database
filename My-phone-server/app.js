@@ -1,8 +1,10 @@
 // importing something by require
 const express = require('express');
+var cors = require('cors')
 const phones = require('./phones.json');
 const app = express();
 const port = 2500;
+app.use(cors())
 app.get('/', (req, res) => {
     res.send('my phone information coming soon on next month')
 })
